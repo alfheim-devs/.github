@@ -1,3 +1,1 @@
-<img align="left" src="../alfheim.gif" width="400">
-
-Alfheim
+Somos uma comunidade de tecnologia e estudos coletivos sem muitas regras.
